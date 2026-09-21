@@ -1,6 +1,7 @@
 html {
   background-color: #f1f5f9;
   font-family: sans-serif;
+  border: 1px solid blue;
 }
 
 body {
@@ -9,6 +10,7 @@ body {
   max-width: 80ch;
   padding: 1rem;
   line-height: 1.5;
+  border: 1px solid red;
 }
 
 * {
